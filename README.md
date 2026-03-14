@@ -48,10 +48,3 @@
 
 ###
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Likegenm/Site/refs/heads/main/svg.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Likegenm/Site/refs/heads/main/svg.svg" />
-    <img alt="custom-svg" src="https://raw.githubusercontent.com/Likegenm/Site/refs/heads/main/svg.svg" />
-  </picture>
-</p>
